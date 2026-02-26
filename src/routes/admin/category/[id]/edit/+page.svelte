@@ -9,8 +9,7 @@
 
 		<div class="form-group">
 			<label for="name">Category name</label>
-			<input
-				type="text"
+			<input type="text"
 				id="name"
 				name="name"
 				required
@@ -21,7 +20,7 @@
 		<button type="submit" class="submit-btn">
 			Update Category
 		</button>
-
+ 
 	</form>
 </section>
 

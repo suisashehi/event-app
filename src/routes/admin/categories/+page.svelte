@@ -18,7 +18,6 @@
 					<div class="dot"></div>
 					<p class="name">{category.name}</p>
 				</div>
-
 				<div class="actions">
 					<a href={`/admin/category/${category.id}/edit`}>
 						<button class="edit">Edit</button>
@@ -33,7 +32,6 @@
 		{/each}
 	</main>
 </section>
-
 <style>
 	body {
 		background: #f9fafb;
